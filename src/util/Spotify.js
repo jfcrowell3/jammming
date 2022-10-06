@@ -1,5 +1,5 @@
 let accessToken = "";
-const clientID = "bae4a64145d848d48739584f0c718847";
+const clientID = "<clientId>";
 const redirectURI = "http://jammmin_with_jfcrowell3.surge.sh/";
 
 const Spotify = {
